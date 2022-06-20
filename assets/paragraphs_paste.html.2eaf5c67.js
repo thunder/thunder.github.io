@@ -1,0 +1,1 @@
+const e={key:"v-52817831",path:"/developer-guide/paragraphs_paste.html",title:"Paragraphs Paste",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:165573167e4},filePathRelative:"developer-guide/paragraphs_paste.md"};export{e as data};
